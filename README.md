@@ -10,3 +10,4 @@ Watch out for evil birds and cats. They want to eat your poor little fish.
 
 # Binary Download
 You must have git large file storage (https://git-lfs.github.com/) installed for the download to work.
+Zip download doestn work here.
